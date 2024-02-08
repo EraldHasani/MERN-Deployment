@@ -1,0 +1,40 @@
+#root {
+  width: 100%;
+  
+}
+
+.navbar{
+  width: 100%;
+  background-color: rgb(197, 108, 0);
+  text-align: center;
+  color: #fff;
+ 
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.pirates {
+  width: 60%;
+  background-color: white;
+  text-align: center;
+  color: #000000;
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container{
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
